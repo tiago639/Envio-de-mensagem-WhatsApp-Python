@@ -103,6 +103,9 @@ João Silva, sua encomenda foi enviada.
 - Ideal para empresas que têm autorização prévia dos destinatários.
 
 ---
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## 👤 Autor
 
