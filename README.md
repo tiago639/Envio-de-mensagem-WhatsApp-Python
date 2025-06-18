@@ -89,6 +89,7 @@ João Silva, sua encomenda foi enviada.
 ## 🧾 Requisitos
 
 - Python 3.7 ou superior
+- Instalar as Dependencias ( pip install requests / pip install openpyxl )
 - Conta ativa na [API BRASIL](https://apibrasil.me)
 - Token e DeviceToken válidos
 - Planilha Excel no formato correto
