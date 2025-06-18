@@ -105,7 +105,7 @@ João Silva, sua encomenda foi enviada.
 ---
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENÇA.txt) para detalhes.
 
 ## 👤 Autor
 
